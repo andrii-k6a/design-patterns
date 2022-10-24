@@ -1,0 +1,1 @@
+It's not a pattern. The **FizzBuzz problem** is a classic test given in coding interviews.

@@ -1,0 +1,1 @@
+It's an example of using several patterns together.
